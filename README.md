@@ -1,1 +1,1 @@
-# hackintosh-dell-optiplex-5060-mt
+# Hackintosh Dell Optiplex 5060 MT
